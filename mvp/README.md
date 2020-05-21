@@ -17,3 +17,4 @@ There are three factors to be considered when establishing the MVP:
 
 In Design Thinking, human-centered design begins with Desirability.  The convergence of user need,  business viability, and technical & financial feasibility outlines the solution.
 
+Let´s go!
